@@ -63,10 +63,9 @@ li {
 .links {
   display: flex;
 }
-.logo {
-  font-size: 1.5rem;
-  font-weight: bold;
-  margin-left: 1rem;
+.logo>img {
+  width: 35%;
+  margin-top: 20%;
 }
 .links li {
   margin-right: 2rem;
